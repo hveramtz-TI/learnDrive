@@ -1,0 +1,79 @@
+{
+  "vehiculos": [
+    {
+      "nombre": "Auto",
+      "videoFondo": "/assets/videos/coche-fondo.mp4",
+      "imagen": "/assets/images/coche.png"
+    },
+    {
+      "nombre": "Moto",
+      "videoFondo": "/assets/videos/moto-fondo.mp4",
+      "imagen": "/assets/images/moto.png"
+    },
+    {
+        "nombre": "Camión",
+        "videoFondo": "/assets/videos/camion-fondo.mp4",
+        "imagen": "/assets/images/camion.png"
+    },
+    {
+        "nombre": "Bicicleta",
+        "videoFondo": "/assets/videos/bici-fondo.mp4",
+        "imagen": "/assets/images/bici.png"
+    },
+    {
+        "nombre": "Tractor",
+        "videoFondo": "/assets/videos/tractor-fondo.mp4",
+        "imagen": "/assets/images/tractor.png"
+    },
+    {
+        "nombre": "Tren",
+        "videoFondo": "/assets/videos/tren-fondo.mp4",
+        "imagen": "/assets/images/tren.png"
+    },
+    {
+        "nombre": "Avión",
+        "videoFondo": "/assets/videos/avion-fondo.mp4",
+        "imagen": "/assets/images/avion.png"
+    },
+    {
+        "nombre": "Barco",
+        "videoFondo": "/assets/videos/barco-fondo.mp4",
+        "imagen": "/assets/images/barco.png"
+    },
+    {
+        "nombre": "Helicóptero",
+        "videoFondo": "/assets/videos/helicoptero-fondo.mp4",
+        "imagen": "/assets/images/helicoptero.png"
+    },
+    {
+      "nombre": "F1",
+      "videoFondo": "/assets/videos/f1-fondo.mp4",
+      "imagen": "/assets/images/f1.png"
+    },
+    {
+      "nombre": "F2",
+      "videoFondo": "/assets/videos/f2-fondo.mp4",
+      "imagen": "/assets/images/f2.png"
+    },
+    {
+      "nombre": "F3",
+      "videoFondo": "/assets/videos/f3-fondo.mp4",
+      "imagen": "/assets/images/f3.png"
+    },
+    {
+      "nombre": "Taxi",
+      "videoFondo": "/assets/videos/taxi-fondo.mp4",
+      "imagen": "/assets/images/taxi.png"
+    },
+    {
+      "nombre": "Ambulancia",
+      "videoFondo": "/assets/videos/ambulancia-fondo.mp4",
+      "imagen": "/assets/images/ambulancia.png"
+    },
+    {
+      "nombre": "Furgón Escolar",
+      "videoFondo": "/assets/videos/furgon-escolar-fondo.mp4",
+      "imagen": "/assets/images/furgon-escolar.png"
+    }
+  ]
+}
