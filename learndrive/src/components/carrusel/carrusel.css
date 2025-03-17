@@ -1,0 +1,46 @@
+.carrusel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.carrusel-image-container {
+  position: relative;
+  width: 600px;
+  height: 400px;
+}
+
+.carrusel img {
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+}
+
+.carrusel button {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.carrusel-indicators {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.indicator.active {
+  background-color: #333;
+}
