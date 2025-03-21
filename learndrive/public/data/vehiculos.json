@@ -2,78 +2,78 @@
   "vehiculos": [
     {
       "nombre": "Auto",
-      "imagenFondo": "/assets/videos/coche-fondo.mp4",
-      "imagen": "/assets/images/coche.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/coche.png"
     },
     {
       "nombre": "Moto",
-      "imagenFondo": "/assets/videos/moto-fondo.mp4",
-      "imagen": "/assets/images/moto.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/moto.png"
     },
     {
       "nombre": "Camión",
-      "imagenFondo": "/assets/videos/camion-fondo.mp4",
-      "imagen": "/assets/images/camion.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/camion.png"
     },
     {
       "nombre": "Bicicleta",
-      "imagenFondo": "/assets/videos/bici-fondo.mp4",
-      "imagen": "/assets/images/bici.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/bici.png"
     },
     {
       "nombre": "Tractor",
-      "imagenFondo": "/assets/videos/tractor-fondo.mp4",
-      "imagen": "/assets/images/tractor.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/tractor.png"
     },
     {
       "nombre": "Tren",
-      "imagenFondo": "/assets/videos/tren-fondo.mp4",
-      "imagen": "/assets/images/tren.png"
+      "imagenFondo": "/img/track.jpg",
+      "imagen": "/images/tren.png"
     },
     {
       "nombre": "Avión",
       "imagenFondo": "/img/airport.jpg",
-      "imagen": "/assets/images/avion.png"
+      "imagen": "/images/avion.png"
     },
     {
       "nombre": "Barco",
       "imagenFondo": "/img/sea.jpg",
-      "imagen": "/assets/images/barco.png"
+      "imagen": "/images/barco.png"
     },
     {
       "nombre": "Helicóptero",
       "imagenFondo": "/img/airport.jpg",
-      "imagen": "/assets/images/helicoptero.png"
+      "imagen": "/images/helicoptero.png"
     },
     {
       "nombre": "F1",
       "imagenFondo": "/img/f1.jpg",
-      "imagen": "/assets/images/f1.png"
+      "imagen": "/images/f1.png"
     },
     {
       "nombre": "F2",
       "imagenFondo": "/img/track.jpg",
-      "imagen": "/assets/images/f2.png"
+      "imagen": "/images/f2.png"
     },
     {
       "nombre": "F3",
       "imagenFondo": "/img/track.jpg",
-      "imagen": "/assets/images/f3.png"
+      "imagen": "/images/f3.png"
     },
     {
       "nombre": "Taxi",
       "imagenFondo": "/img/taxi.webp",
-      "imagen": "/assets/images/taxi.png"
+      "imagen": "/images/taxi.png"
     },
     {
       "nombre": "Ambulancia",
       "imagenFondo": "/img/ambulance.jpg",
-      "imagen": "/assets/images/ambulancia.png"
+      "imagen": "/images/ambulancia.png"
     },
     {
       "nombre": "Furgón Escolar",
       "imagenFondo": "/img/taxi.webp",
-      "imagen": "/assets/images/furgon-escolar.png"
+      "imagen": "/images/furgon-escolar.png"
     }
   ]
 }
